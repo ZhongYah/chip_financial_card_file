@@ -157,12 +157,6 @@
 
 ## [功能流程 ── Functional Flow](#晶片金融卡功能流程-chip-financial-card-function-process)
 
->### [功能示意圖 ── Function Diagram](#晶片金融卡功能流程-chip-financial-card-function-process) 
->
->![](images\function_img.png)
-
-</br>
-
 >### [引用 Custom Hooks ── Import](#晶片金融卡功能流程-chip-financial-card-function-process)
 >Custom Hooks { `useSCSBWebATM` }，該 Hook 提供了多個功能來執行與智慧卡相關的操作。
 >```javaScript
